@@ -1,5 +1,5 @@
 {
-    "name": "useallfive/doctrine-data-fixtures-command",
+    "name": "ckuran/doctrine-data-fixtures-command",
     "description": "Doctrine DataFixtures CLI command",
     "keywords": ["silex", "doctrine", "datafixtures", "orm", "console", "web", "pimple"],
     "license": "MIT",
