@@ -95,5 +95,7 @@ EOT
             $output->writeln(sprintf('  <comment>></comment> <info>%s</info>', $message));
         });
         $executor->execute($fixtures, $input->getOption('append'));
+
+        return 0;
     }
 }
